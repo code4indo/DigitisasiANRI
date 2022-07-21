@@ -2,9 +2,10 @@
 dokumentasi tentang kegiatan alih media di ANRI
 
 ### Menambahkan Network Drive 
+1. masuk windows explorer (window logo + E)
+2. seperti terlihat pada gambar > pilih this PC > lih menu titik 3 >  Map Network Drive
 
 
-![map-network-drive-menu](https://user-images.githubusercontent.com/70067620/180330361-7b3ea173-b379-47d1-9127-6fe168697817.png)
 
 
 
