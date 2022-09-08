@@ -29,3 +29,6 @@ BB = Nama Khasanah
 1928 = tahun terciptanya arsip 
 101 = jumlah lembar yang terdapat pada bundle
 ```
+terdapat 2 jenis format file yaitu .jpg dan .tiff owncloud hanya bisa menampilkan gambar dengan format .jpg, tiff harus di download 
+
+perbedaan antara format .jpg dan .tiff
