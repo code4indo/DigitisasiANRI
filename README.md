@@ -25,3 +25,6 @@ dokumentasi tentang kegiatan alih media di ANRI
 keterangan:
 data hasil alih media hanya dapat diakses melalui jaringan internal ANRI
 dari ruang kerja, atau menggunakan akses VPN yang disediakan oleh biro umum 
+
+
+Terdapat perubahan IP Address menjadi 10.2.0.3
